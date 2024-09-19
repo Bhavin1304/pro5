@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.gallery{
+    height: 600px;
+    width: 100%;
+    /* background-color: black; */
+
+}
+.gallery h4{
+    text-align: center;
+    line-height: 80px;
+    font-size: 30px;
+}
+.picture{
+    margin-left: 15%;
+    margin-top: 50px;
+}
+.picture img{
+    height: 400px;
+    width: 20%;
+}
